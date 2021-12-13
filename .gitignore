@@ -21,5 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-src/App.css
+compo/directory/directory.styles.scss
+compo/menu-item/menu-item.compo.jsx
+compo/menu-item/menu-item.styles.scss
 src/App.css
